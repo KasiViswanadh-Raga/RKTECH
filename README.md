@@ -4,7 +4,7 @@ This Java program checks the strength of a password based on specific criteria s
 
 # Features
 
-Determines whether a password is weak or strong based on the following criteria:
+Determines whether a password is weak or strong based on the following criteria:\n
 Password length must be at least 8 characters.
 Password must contain at least one uppercase letter.
 Password must contain at least one lowercase letter.
